@@ -33,9 +33,6 @@ Aplicación web tipo e-commerce para explorar un catálogo de joyas.
 - Control de versiones con **Git** y **GitHub**.
 
 🔗 **Demo:** https://sample-service-name-jk84.onrender.com  
-🔗 **Repo:** (añade aquí el enlace cuando lo tengas subido)
-
----
 
 ✅ Todo App – App de tareas con API externa
 Aplicación de tareas que consume una **API pública** para gestionar usuarios y todos.
