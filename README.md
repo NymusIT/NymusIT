@@ -32,7 +32,7 @@ Aplicación web tipo e-commerce para explorar un catálogo de joyas.
 - Autenticación con **JWT** e integración de servicios de terceros.
 - Control de versiones con **Git** y **GitHub**.
 
-🔗 **Demo:** https://sample-service-name-jk84.onrender.com  
+🔗 https://github.com/4GeeksAcademy/fs-pt-115-CuatroK 
 
 ✅ Todo App – App de tareas con API externa
 Aplicación de tareas que consume una **API pública** para gestionar usuarios y todos.
